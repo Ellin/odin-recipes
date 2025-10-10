@@ -6,10 +6,11 @@
 
 body {
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
-    background-color: rgb(181, 224, 162);
+    background-color: rgb(186, 228, 162);
     padding: 1em 2em;
     text-align: center;
 }
