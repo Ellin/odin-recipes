@@ -44,3 +44,18 @@ nav {
 #nav-bar a:hover {
     background-color: #f7f7f7;
 }
+
+#recipe-previews {
+    /* background-color: green; */
+    text-align: center;
+}
+
+#recipe-previews > li {
+    display: inline-block;
+    /* background-color: pink; */
+    padding: 1em 3em;
+}
+
+#recipe-previews img {
+    width: 350px;
+}
