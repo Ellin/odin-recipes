@@ -33,6 +33,14 @@ nav {
 }
 
 #nav-bar > li {
+    display: inline-block;
+}
+
+#nav-bar a {
     padding: 1em 2em;
     display: inline-block;
+}
+
+#nav-bar a:hover {
+    background-color: #f7f7f7;
 }
